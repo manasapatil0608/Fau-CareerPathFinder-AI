@@ -1,0 +1,44 @@
+{
+  "careers": [
+    {
+      "role": "Data Analyst",
+      "skills": ["SQL", "Excel", "Python", "Power BI", "Tableau"],
+      "tools": ["Power BI", "Tableau", "Excel"],
+      "certifications": ["Google Data Analytics", "Microsoft PL-300"],
+      "outlook": "High demand with steady growth",
+      "ai_impact": "Medium – automation may replace repetitive tasks",
+      "salary_range": "$60,000 - $90,000",
+      "roadmap_focus": "Data visualization, SQL, business insights"
+    },
+    {
+      "role": "Data Engineer",
+      "skills": ["Python", "SQL", "Spark", "Airflow", "Azure"],
+      "tools": ["Databricks", "Azure Data Factory", "Kafka"],
+      "certifications": ["Azure Data Engineer (DP-203)"],
+      "outlook": "Very high demand",
+      "ai_impact": "Low – strong technical role",
+      "salary_range": "$90,000 - $140,000",
+      "roadmap_focus": "ETL pipelines, cloud, big data"
+    },
+    {
+      "role": "Machine Learning Engineer",
+      "skills": ["Python", "TensorFlow", "PyTorch", "ML Algorithms"],
+      "tools": ["Scikit-learn", "AWS SageMaker"],
+      "certifications": ["AWS Machine Learning Specialty"],
+      "outlook": "Rapid growth",
+      "ai_impact": "Low – builds AI systems",
+      "salary_range": "$110,000 - $160,000",
+      "roadmap_focus": "ML models, deep learning, deployment"
+    },
+    {
+      "role": "Business Analyst",
+      "skills": ["Excel", "SQL", "Communication", "Power BI"],
+      "tools": ["Excel", "Power BI"],
+      "certifications": ["CBAP"],
+      "outlook": "Stable demand",
+      "ai_impact": "Medium",
+      "salary_range": "$70,000 - $100,000",
+      "roadmap_focus": "Business insights, stakeholder communication"
+    }
+  ]
+}
